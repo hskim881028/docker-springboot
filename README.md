@@ -1,12 +1,19 @@
 # docker-springboot
 build maven project with docker
 
+
 + Spring boot version : 2.1.6
 + Java version : 1.8
 + Docker version : 18.09.2
 + Maven version : 3.6.1
 
-[Docker command line]
+
+
+
+
+* * *
+Docker command line
+
 + docker run -d -p 8080:8080 REPOSITORY
 + docker images
 + docker ps
